@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maqta.GatewayApi", "Maqta.GatewayApi\Maqta.GatewayApi.csproj", "{B0D803D8-6710-47EC-831B-CAAC65AFA2FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_microservice", "Microservices\Employee.microservice\Employee_microservice.csproj", "{8A853B9C-0560-4836-B23D-9A1EB9B02066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D803D8-6710-47EC-831B-CAAC65AFA2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D803D8-6710-47EC-831B-CAAC65AFA2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D803D8-6710-47EC-831B-CAAC65AFA2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D803D8-6710-47EC-831B-CAAC65AFA2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A853B9C-0560-4836-B23D-9A1EB9B02066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A853B9C-0560-4836-B23D-9A1EB9B02066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A853B9C-0560-4836-B23D-9A1EB9B02066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A853B9C-0560-4836-B23D-9A1EB9B02066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44C0476B-EAD5-4FA2-BC92-B93DFD0448B5}
+	EndGlobalSection
+EndGlobal
